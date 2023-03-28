@@ -1,0 +1,437 @@
+id,Location,lat-lon,Area,Bed,Bath,Price
+0,0,"Block H, Bashundhara R-A, Dhaka",0.26340563566098046,"1,600 sqft",3,3,20 Thousand
+1,1,"Farmgate, Tejgaon, Dhaka",0.26284146265428104,900 sqft,2,2,20 Thousand
+3,3,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,200 sqft",3,4,75 Thousand
+4,4,"Baridhara, Dhaka",0.2632455535000738,"2,200 sqft",3,3,75 Thousand
+5,5,"Bashundhara R-A, Dhaka",0.2627610746286506,"3,000 sqft",4,5,50 Thousand
+6,6,"Baridhara, Dhaka",0.2632455535000738,"2,300 sqft",3,3,75 Thousand
+7,7,"PC Culture Housing, Mohammadpur, Dhaka",0.26307166490932604,950 sqft,2,2,14 Thousand
+8,8,"Jigatola, Hazaribag, Dhaka",0.26262482835844125,"1,600 sqft",3,3,28 Thousand
+9,9,"West Kazipara, Mirpur, Dhaka",0.26342765904007476,"1,150 sqft",3,3,19 Thousand
+10,10,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,40 Thousand
+11,11,"Block J, Bashundhara R-A, Dhaka",0.26340563566098046,"1,250 sqft",3,3,19 Thousand
+12,12,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,60 Thousand
+13,13,"Nikunja 2, Nikunja, Dhaka",0.26354355771182736,750 sqft,2,2,16 Thousand
+14,14,"Sector 6, Uttara, Dhaka",0.26407196242427444,"1,850 sqft",3,3,40 Thousand
+15,15,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,35 Thousand
+16,16,"Khilgaon, Dhaka",0.26266083388271805,"1,200 sqft",3,3,18 Thousand
+17,17,"Block K, Baridhara, Dhaka",0.26321754504668005,"3,000 sqft",4,4,1.6 Lakh
+18,18,"Ibrahimpur, Dhaka",0.2632690203655938,"1,050 sqft",3,3,25 Thousand
+19,19,"Ibrahimpur, Dhaka",0.2632690203655938,"1,050 sqft",3,3,25 Thousand
+20,20,"Sector 5, Uttara, Dhaka",0.2640050242642548,"1,400 sqft",3,2,30 Thousand
+21,21,"PC Culture Housing, Mohammadpur, Dhaka",0.26307166490932604,"1,150 sqft",3,3,19 Thousand
+22,22,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"2,100 sqft",3,4,40 Thousand
+23,23,"Nurer Chala, Badda, Dhaka",0.26307814848394695,800 sqft,2,2,18.63 Thousand
+24,24,"Block F, Bashundhara R-A, Dhaka",0.26340678450900457,900 sqft,2,2,19 Thousand
+25,25,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,500 sqft",3,3,32 Thousand
+26,26,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,60 Thousand
+27,27,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,40 Thousand
+28,28,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,40 Thousand
+29,29,"Rajabazar, Tejgaon, Dhaka",0.26277667378804925,650 sqft,2,2,18 Thousand
+30,30,"Baridhara, Dhaka",0.2632455535000738,"1,524 sqft",3,3,1 Lakh
+31,31,"Khilgaon, Dhaka",0.26266083388271805,"1,100 sqft",3,2,19 Thousand
+32,32,"Sector 9, Uttara, Dhaka",0.2641363426473048,"1,500 sqft",3,4,35 Thousand
+33,33,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"3,500 sqft",4,4,2 Lakh
+34,34,"Sector 9, Uttara, Dhaka",0.2641363426473048,850 sqft,2,2,25 Thousand
+35,35,"Sector 14, Uttara, Dhaka",0.2640484248984592,"1,400 sqft",3,4,32 Thousand
+37,37,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,750 sqft",3,4,30 Thousand
+38,38,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,2,20 Thousand
+40,40,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,617 sqft",3,4,30 Thousand
+41,41,"Sector 7, Uttara, Dhaka",0.26405600164938486,"1,350 sqft",3,3,27 Thousand
+42,42,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"1,600 sqft",3,3,50 Thousand
+43,43,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,900 sqft",3,4,50 Thousand
+45,45,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,60 Thousand
+47,47,"Banani, Dhaka",0.2631448657458817,"2,600 sqft",3,4,75 Thousand
+48,48,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,500 sqft",3,3,24 Thousand
+49,49,"Block A, Bashundhara R-A, Dhaka",0.26329971068765545,"1,860 sqft",3,4,38 Thousand
+50,50,"Banani, Dhaka",0.2631448657458817,"2,200 sqft",3,4,80 Thousand
+51,51,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"3,000 sqft",4,4,1.5 Lakh
+52,52,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"3,200 sqft",4,4,1.2 Lakh
+53,53,"Kakrail, Dhaka",0.26257370635435656,"1,895 sqft",3,4,40 Thousand
+54,54,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,400 sqft",3,3,28 Thousand
+55,55,"Block I, Bashundhara R-A, Dhaka",0.2634051610595109,"1,500 sqft",3,4,25 Thousand
+56,56,"Malibagh, Dhaka",0.26263560975313077,"1,360 sqft",3,3,30 Thousand
+57,57,"Malibagh, Dhaka",0.26263560975313077,"1,300 sqft",3,3,30 Thousand
+58,58,"Block J, Bashundhara R-A, Dhaka",0.26340563566098046,"1,000 sqft",3,2,18 Thousand
+60,60,"Block F, Bashundhara R-A, Dhaka",0.26340678450900457,"1,500 sqft",3,4,30 Thousand
+61,61,"Block F, Bashundhara R-A, Dhaka",0.26340678450900457,"1,800 sqft",3,4,30 Thousand
+62,62,"Sector 5, Uttara, Dhaka",0.2640050242642548,"2,150 sqft",3,3,50 Thousand
+63,63,"Block J, Bashundhara R-A, Dhaka",0.26340563566098046,"1,000 sqft",3,2,18 Thousand
+64,64,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,500 sqft",3,3,25 Thousand
+65,65,"Block J, Bashundhara R-A, Dhaka",0.26340563566098046,"2,000 sqft",3,3,26 Thousand
+66,66,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"3,680 sqft",3,4,2 Lakh
+67,67,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,60 Thousand
+68,68,"Maghbazar, Dhaka",0.2627175854572635,"1,058 sqft",2,2,28 Thousand
+71,71,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,40 Thousand
+72,72,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,650 sqft",3,3,35 Thousand
+73,73,"Badda, Dhaka",0.26287240886965446,"1,250 sqft",3,3,25 Thousand
+74,74,"Mohammadpur, Dhaka",0.26298493281416874,"2,700 sqft",3,3,60 Thousand
+75,75,"Block K, Bashundhara R-A, Dhaka",0.26342880270629554,"1,200 sqft",3,3,20 Thousand
+76,76,"East Badda, Badda, Dhaka",0.26307814848394695,"1,200 sqft",3,3,20 Thousand
+77,77,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,35 Thousand
+78,78,"Dhanmondi, Dhaka",0.2627720169289272,"2,660 sqft",3,4,85 Thousand
+80,80,"Block A, Niketan, Dhaka",0.2629435864525979,"1,570 sqft",3,3,35 Thousand
+81,81,"Banani, Dhaka",0.2631448657458817,"3,245 sqft",4,4,1.1 Lakh
+82,82,"Banani, Dhaka",0.2631448657458817,"3,245 sqft",4,4,1.1 Lakh
+83,83,"Banani, Dhaka",0.2631448657458817,"3,245 sqft",4,4,1.1 Lakh
+84,84,"East Goran, Goran, Khilgaon, Dhaka",0.26259520941590175,800 sqft,2,2,15 Thousand
+85,85,"Block H, Bashundhara R-A, Dhaka",0.26340563566098046,"1,600 sqft",3,3,26 Thousand
+86,86,"Block C, Section 13, Mirpur, Dhaka",0.2634301705211929,745 sqft,3,2,15 Thousand
+87,87,"Block I, Bashundhara R-A, Dhaka",0.2634051610595109,"1,500 sqft",3,3,27 Thousand
+88,88,"Block B, Bashundhara R-A, Dhaka",0.2633466115985077,"1,900 sqft",3,4,40 Thousand
+89,89,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,300 sqft",2,2,24.76 Thousand
+90,90,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,400 sqft",3,3,1 Lakh
+92,92,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"2,300 sqft",4,3,32 Thousand
+93,93,"Sector 5, Uttara, Dhaka",0.2640050242642548,950 sqft,2,3,26 Thousand
+94,94,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"2,100 sqft",3,4,40 Thousand
+95,95,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,600 sqft",3,3,25 Thousand
+96,96,"Block A, Bashundhara R-A, Dhaka",0.26329971068765545,600 sqft,2,1,27 Thousand
+97,97,"New Eskaton, Eskaton, Dhaka",0.26268746984177666,"1,300 sqft",3,3,25 Thousand
+98,98,"PC Culture Housing, Mohammadpur, Dhaka",0.26307166490932604,"1,000 sqft",3,3,24 Thousand
+99,99,"Mirpur, Dhaka",0.263515774210355,"1,180 sqft",3,3,17 Thousand
+100,100,"Banani, Dhaka",0.2631448657458817,"2,550 sqft",3,3,95 Thousand
+101,101,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,900 sqft",3,4,35 Thousand
+102,102,"Dhanmondi, Dhaka",0.2627720169289272,"2,000 sqft",3,4,55 Thousand
+103,103,"Block H, Banasree, Dhaka",0.26270744886270236,"1,800 sqft",4,4,31 Thousand
+104,104,"Block B, Bashundhara R-A, Dhaka",0.2633466115985077,"2,025 sqft",3,4,45 Thousand
+105,105,"Baridhara, Dhaka",0.2632455535000738,"1,524 sqft",3,3,1 Lakh
+106,106,"Block I, Bashundhara R-A, Dhaka",0.2634051610595109,"1,500 sqft",3,3,26 Thousand
+107,107,"Mohammadpur, Dhaka",0.26298493281416874,"1,200 sqft",3,3,20 Thousand
+108,108,"Mohammadpur, Dhaka",0.26298493281416874,950 sqft,3,2,19 Thousand
+110,110,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,000 sqft",2,2,20 Thousand
+111,111,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,60 Thousand
+112,112,"Block K, Baridhara, Dhaka",0.26321754504668005,"3,000 sqft",3,4,2.4 Lakh
+113,113,"Block B, Niketan, Dhaka",0.2629435864525979,"1,450 sqft",3,3,54 Thousand
+114,114,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"3,000 sqft",3,4,1.5 Lakh
+115,115,"Block F, Bashundhara R-A, Dhaka",0.26340678450900457,"2,359 sqft",4,3,55 Thousand
+116,116,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,000 sqft",3,3,90 Thousand
+117,117,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,000 sqft",3,3,90 Thousand
+118,118,"Block K, Baridhara, Dhaka",0.26321754504668005,"3,000 sqft",3,3,95 Thousand
+120,120,"East Goran, Goran, Khilgaon, Dhaka",0.26259520941590175,"1,000 sqft",3,3,13 Thousand
+121,121,"Block H, Banasree, Dhaka",0.26270744886270236,"1,600 sqft",4,3,30 Thousand
+122,122,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,200 sqft",3,3,55 Thousand
+123,123,"Sector 10, Uttara, Dhaka",0.26421621271424994,850 sqft,2,2,14 Thousand
+124,124,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,650 sqft",3,3,35 Thousand
+125,125,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"2,100 sqft",3,3,42 Thousand
+126,126,"Niketan, Dhaka",0.2629507833529689,"2,021 sqft",3,3,50 Thousand
+127,127,"Banani, Dhaka",0.2631448657458817,"2,960 sqft",4,5,1 Lakh
+128,128,"PC Culture Housing, Mohammadpur, Dhaka",0.26307166490932604,720 sqft,2,2,15 Thousand
+129,129,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"2,100 sqft",4,4,1 Lakh
+130,130,"Dhanmondi, Dhaka",0.2627720169289272,"1,800 sqft",3,3,50 Thousand
+131,131,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,100 sqft",2,2,1.4 Lakh
+132,132,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,550 sqft",3,4,26 Thousand
+133,133,"Shantibag, Malibagh, Dhaka",0.26260193300150925,600 sqft,2,1,15 Thousand
+134,134,"Rajabazar, Tejgaon, Dhaka",0.26277667378804925,"1,750 sqft",3,4,33 Thousand
+136,136,"Sector 7, Uttara, Dhaka",0.26405600164938486,"1,750 sqft",3,4,55 Thousand
+137,137,"Block F, aziz Moholla, Mohammadpur, Dhaka",0.2630772909109195,650 sqft,2,2,16 Thousand
+139,139,"East Bashabo, Bashabo, Dhaka",0.262487057376931,700 sqft,2,1,8.5 Thousand
+141,141,"Baridhara DOHS, Dhaka",0.26338117495440033,"1,250 sqft",3,3,45 Thousand
+142,142,"Sector 13, Uttara, Dhaka",0.26409985310710393,900 sqft,2,2,17 Thousand
+144,144,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,750 sqft",4,4,90 Thousand
+145,145,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,35 Thousand
+146,146,"Tejgaon, Dhaka",0.2628883599451572,600 sqft,2,2,17 Thousand
+148,148,"Sector 12, Uttara, Dhaka",0.2641207728475387,500 sqft,1,1,11 Thousand
+149,149,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,200 sqft",2,3,20 Thousand
+150,150,"East Goran, Goran, Khilgaon, Dhaka",0.26259520941590175,900 sqft,2,2,12 Thousand
+154,154,"Baridhara, Dhaka",0.2632455535000738,"4,200 sqft",4,4,4 Lakh
+155,155,"Baridhara, Dhaka",0.2632455535000738,"4,200 sqft",4,4,4 Lakh
+156,156,"Sector 13, Uttara, Dhaka",0.26409985310710393,"2,600 sqft",4,4,65 Thousand
+157,157,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,60 Thousand
+158,158,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,550 sqft",3,4,36 Thousand
+161,161,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,500 sqft",3,3,35 Thousand
+162,162,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"2,250 sqft",3,3,75 Thousand
+163,163,"Tejgaon, Dhaka",0.2628883599451572,400 sqft,1,1,13 Thousand
+164,164,"Sector 5, Uttara, Dhaka",0.2640050242642548,"1,300 sqft",3,3,60 Thousand
+165,165,"Nikunja 2, Nikunja, Dhaka",0.26354355771182736,"1,600 sqft",3,3,60 Thousand
+166,166,"Dhanmondi, Dhaka",0.2627720169289272,"2,200 sqft",3,3,60 Thousand
+167,167,"Block A, Banasree, Dhaka",0.2628125661621614,850 sqft,2,2,15 Thousand
+168,168,"Baridhara DOHS, Dhaka",0.26338117495440033,"1,385 sqft",3,4,40 Thousand
+169,169,"Sector 13, Uttara, Dhaka",0.26409985310710393,"1,000 sqft",2,2,20 Thousand
+170,170,"Sector 12, Uttara, Dhaka",0.2641207728475387,900 sqft,2,2,17 Thousand
+171,171,"Sector 13, Uttara, Dhaka",0.26409985310710393,800 sqft,2,2,18 Thousand
+172,172,"Block B, Bashundhara R-A, Dhaka",0.2633466115985077,"1,600 sqft",3,3,42 Thousand
+173,173,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"2,200 sqft",3,3,85 Thousand
+174,174,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"2,400 sqft",3,3,1.2 Lakh
+175,175,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,300 sqft",3,3,40 Thousand
+176,176,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,800 sqft",4,4,70 Thousand
+177,177,"Block J, Bashundhara R-A, Dhaka",0.26340563566098046,"1,250 sqft",3,3,19 Thousand
+180,180,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,250 sqft",3,2,24 Thousand
+181,181,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"2,800 sqft",4,4,2.5 Lakh
+182,182,"West Shewrapara, Mirpur, Dhaka",0.2632049573276816,800 sqft,2,2,14 Thousand
+184,184,"Dhanmondi, Dhaka",0.2627720169289272,"2,700 sqft",3,4,90 Thousand
+185,185,"Banani, Dhaka",0.2631448657458817,"3,000 sqft",4,4,1 Lakh
+188,188,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"2,250 sqft",3,4,35 Thousand
+190,190,"Block C, Section 2, Mirpur, Dhaka",0.26344428662441866,"1,612 sqft",3,4,25 Thousand
+191,191,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,550 sqft,2,1,8.5 Thousand
+193,193,"Taltola, Khilgaon, Dhaka",0.26266454247291143,550 sqft,2,1,11 Thousand
+194,194,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,400 sqft,1,1,5 Thousand
+195,195,"South Monipur, Mirpur, Dhaka",0.2633881392718243,850 sqft,3,2,13 Thousand
+196,196,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"3,000 sqft",4,4,1.5 Lakh
+197,197,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"1,650 sqft",3,3,55 Thousand
+199,199,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,890 sqft",3,3,38 Thousand
+200,200,"Pirerbag, Mirpur, Dhaka",0.2633881392718243,"1,200 sqft",3,3,15 Thousand
+201,201,"Sector 4, Uttara, Dhaka",0.2639763269197848,"2,600 sqft",4,4,75 Thousand
+202,202,"Eskaton, Dhaka",0.262694866157379,"1,900 sqft",3,3,45 Thousand
+203,203,"Baridhara, Dhaka",0.2632455535000738,"2,700 sqft",3,3,1.4 Lakh
+204,204,"Banani, Dhaka",0.2631448657458817,"1,800 sqft",3,3,70 Thousand
+206,206,"Sector 5, Uttara, Dhaka",0.2640050242642548,"1,050 sqft",2,2,20 Thousand
+207,207,"Eskaton, Dhaka",0.262694866157379,"1,350 sqft",3,3,30 Thousand
+208,208,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,450 sqft",3,3,25 Thousand
+209,209,"Eskaton, Dhaka",0.262694866157379,"1,760 sqft",3,4,35 Thousand
+210,210,"Kakrail, Dhaka",0.26257370635435656,"1,400 sqft",3,3,35 Thousand
+211,211,"Lalmatia, Dhaka",0.26288505956314384,"1,000 sqft",2,2,26 Thousand
+212,212,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,750 sqft",3,3,26 Thousand
+213,213,"Baridhara, Dhaka",0.2632455535000738,"5,500 sqft",4,5,3.5 Lakh
+214,214,"Sector 6, Uttara, Dhaka",0.26407196242427444,"1,300 sqft",3,3,35 Thousand
+215,215,"1st Colony, Mirpur, Dhaka",0.26326451264232004,"1,200 sqft",3,3,16 Thousand
+216,216,"Baridhara, Dhaka",0.2632455535000738,"1,500 sqft",2,3,1.15 Lakh
+217,217,"Sector 11, Uttara, Dhaka",0.2641582337585067,900 sqft,2,2,17 Thousand
+218,218,"Uttar Badda, Badda, Dhaka",0.26304167434475506,"1,393 sqft",3,3,18 Thousand
+219,219,"Block B, Bashundhara R-A, Dhaka",0.2633466115985077,"2,500 sqft",3,3,80 Thousand
+220,220,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,360 sqft",3,3,25 Thousand
+221,221,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,450 sqft",3,3,26 Thousand
+222,222,"Mohammadpur, Dhaka",0.26298493281416874,600 sqft,2,2,18 Thousand
+223,223,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,050 sqft",3,2,15.5 Thousand
+224,224,"Block B, Bashundhara R-A, Dhaka",0.2633466115985077,"2,000 sqft",3,4,60 Thousand
+226,226,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,400 sqft",3,3,36.75 Thousand
+229,229,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,600 sqft",3,4,50 Thousand
+230,230,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,100 sqft",2,2,25 Thousand
+231,231,"Baridhara, Dhaka",0.2632455535000738,"1,800 sqft",2,2,1.2 Lakh
+232,232,"Sector 12, Uttara, Dhaka",0.2641207728475387,"1,665 sqft",3,3,35 Thousand
+233,233,"Sector 6, Uttara, Dhaka",0.26407196242427444,"2,000 sqft",3,4,55 Thousand
+235,235,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,530 sqft",3,4,33.5 Thousand
+236,236,"Block J, Bashundhara R-A, Dhaka",0.26340563566098046,"1,200 sqft",3,3,25 Thousand
+237,237,"Avenue 3, Mirpur DOHS, Mirpur, Dhaka",0.26379330186475325,"2,100 sqft",3,3,35 Thousand
+239,239,"Baridhara, Dhaka",0.2632455535000738,"3,750 sqft",4,4,3 Lakh
+241,241,"Block I, Bashundhara R-A, Dhaka",0.2634051610595109,"1,500 sqft",3,4,25 Thousand
+243,243,"Block H, Bashundhara R-A, Dhaka",0.26340563566098046,"1,600 sqft",3,3,22 Thousand
+244,244,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,600 sqft",3,4,80 Thousand
+245,245,"Section 2, Mirpur, Dhaka",0.2634636290238303,"1,400 sqft",3,3,25 Thousand
+247,247,"Lalmatia, Dhaka",0.26288505956314384,"1,360 sqft",3,4,30 Thousand
+248,248,"Sector 3, Uttara, Dhaka",0.2639955301194926,"2,000 sqft",3,3,70 Thousand
+249,249,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,320 sqft",3,3,22 Thousand
+250,250,"Mohammadpur, Dhaka",0.26298493281416874,550 sqft,1,1,12.5 Thousand
+251,251,"Block F, aziz Moholla, Mohammadpur, Dhaka",0.2630772909109195,650 sqft,2,1,12 Thousand
+253,253,"Mohammadia Housing Society, Mohammadpur, Dhaka",0.2629907267375068,"2,000 sqft",3,4,30 Thousand
+255,255,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,850 sqft",3,4,40 Thousand
+256,256,"Mohakhali DOHS, Dhaka",0.26307519211470065,"2,000 sqft",2,3,70 Thousand
+257,257,"Mohakhali DOHS, Dhaka",0.26307519211470065,"2,700 sqft",3,4,85 Thousand
+258,258,"Block K, Bashundhara R-A, Dhaka",0.26342880270629554,"1,200 sqft",3,3,20 Thousand
+259,259,"Block K, Bashundhara R-A, Dhaka",0.26342880270629554,"1,200 sqft",3,3,20 Thousand
+261,261,"Banani, Dhaka",0.2631448657458817,"1,650 sqft",3,3,60 Thousand
+262,262,"Sector 11, Uttara, Dhaka",0.2641582337585067,900 sqft,2,2,18 Thousand
+263,263,"Block A, Bashundhara R-A, Dhaka",0.26329971068765545,"2,100 sqft",3,4,60 Thousand
+264,264,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,450 sqft",3,3,30 Thousand
+265,265,"Sector 13, Uttara, Dhaka",0.26409985310710393,"1,500 sqft",3,4,25 Thousand
+266,266,"Sector 1, Uttara, Dhaka",0.26391337381801133,"2,000 sqft",2,2,30 Thousand
+267,267,"Jigatola, Hazaribag, Dhaka",0.26262482835844125,"1,200 sqft",3,3,20 Thousand
+268,268,"Sector 13, Uttara, Dhaka",0.26409985310710393,"1,500 sqft",3,4,25 Thousand
+269,269,"Block J, Baridhara, Dhaka",0.263200526694617,"2,500 sqft",4,5,70 Thousand
+270,270,"Kallyanpur, Mirpur, Dhaka",0.26315688176659274,"1,372 sqft",3,3,18 Thousand
+271,271,"Shyamoli Housing, Shekhertek, Mohammadpur, Dhaka",0.2631186581689169,"1,350 sqft",3,3,20 Thousand
+272,272,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,450 sqft",3,4,80 Thousand
+273,273,"Baridhara, Dhaka",0.2632455535000738,"3,000 sqft",3,4,2.15 Lakh
+274,274,"Baridhara, Dhaka",0.2632455535000738,"3,200 sqft",4,4,2 Lakh
+275,275,"Wari, Sutrapur, Dhaka",0.2622599553618839,"1,100 sqft",3,2,22 Thousand
+276,276,"Dhanmondi, Dhaka",0.2627720169289272,"2,200 sqft",3,4,55 Thousand
+277,277,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,720 sqft",3,3,80 Thousand
+278,278,"Block J, Bashundhara R-A, Dhaka",0.26340563566098046,"1,250 sqft",3,3,20 Thousand
+279,279,"Sector 1, Uttara, Dhaka",0.26391337381801133,"2,840 sqft",4,4,60 Thousand
+280,280,"Dhanmondi, Dhaka",0.2627720169289272,"1,778 sqft",3,3,45 Thousand
+281,281,"Mohammadpur, Dhaka",0.26298493281416874,"2,700 sqft",3,4,60 Thousand
+282,282,"Banani, Dhaka",0.2631448657458817,"2,400 sqft",3,4,80 Thousand
+283,283,"Sector 5, Uttara, Dhaka",0.2640050242642548,"1,600 sqft",3,3,40 Thousand
+284,284,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"2,200 sqft",3,3,70 Thousand
+285,285,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,776 sqft",3,3,30 Thousand
+286,286,"Mirpur, Dhaka",0.263515774210355,500 sqft,2,1,7 Thousand
+287,287,"Hatirpool, Dhaka",0.2626545232089187,"1,500 sqft",3,3,35 Thousand
+288,288,"South Pirerbag, Pirerbag, Mirpur, Dhaka",0.2633881392718243,600 sqft,2,1,8.5 Thousand
+289,289,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"3,000 sqft",2,4,1.6 Lakh
+291,291,"Sector 13, Uttara, Dhaka",0.26409985310710393,"2,600 sqft",4,4,65 Thousand
+292,292,"Sector 5, Uttara, Dhaka",0.2640050242642548,800 sqft,2,1,16 Thousand
+293,293,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"2,500 sqft",3,3,45 Thousand
+294,294,"Sector 5, Uttara, Dhaka",0.2640050242642548,"1,400 sqft",3,3,30 Thousand
+295,295,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,410 sqft",3,3,28 Thousand
+296,296,"Sector 12, Uttara, Dhaka",0.2641207728475387,800 sqft,2,2,13.5 Thousand
+297,297,"Block C, Section 2, Mirpur, Dhaka",0.26344428662441866,"1,612 sqft",3,4,25 Thousand
+298,298,"Dhanmondi, Dhaka",0.2627720169289272,"2,600 sqft",4,5,70 Thousand
+299,299,"Sector 13, Uttara, Dhaka",0.26409985310710393,500 sqft,1,1,15 Thousand
+300,300,"Sector 5, Uttara, Dhaka",0.2640050242642548,"1,600 sqft",3,3,40 Thousand
+302,302,"Sector 5, Uttara, Dhaka",0.2640050242642548,"1,600 sqft",3,3,40 Thousand
+303,303,"Taltola, Agargaon, Dhaka",0.263166699794341,"1,100 sqft",3,3,20 Thousand
+304,304,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"4,500 sqft",6,6,2.8 Lakh
+305,305,"Block J, Bashundhara R-A, Dhaka",0.26340563566098046,"1,250 sqft",3,3,20 Thousand
+306,306,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,500 sqft",3,4,35 Thousand
+307,307,"Block F, Bashundhara R-A, Dhaka",0.26340678450900457,"2,700 sqft",4,5,39 Thousand
+309,309,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"2,400 sqft",4,4,75 Thousand
+310,310,"Sector 5, Uttara, Dhaka",0.2640050242642548,650 sqft,2,1,15 Thousand
+313,313,"Mohammadpur, Dhaka",0.26298493281416874,"2,700 sqft",3,3,60 Thousand
+314,314,"Eskaton, Dhaka",0.262694866157379,"1,600 sqft",3,3,40 Thousand
+315,315,"Sector 12, Uttara, Dhaka",0.2641207728475387,"1,800 sqft",3,4,27 Thousand
+316,316,"West Shewrapara, Mirpur, Dhaka",0.2632049573276816,600 sqft,2,2,12 Thousand
+317,317,"Banani, Dhaka",0.2631448657458817,"2,200 sqft",3,4,55 Thousand
+318,318,"Sector 14, Uttara, Dhaka",0.2640484248984592,"1,100 sqft",2,2,20 Thousand
+319,319,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,500 sqft",3,4,35 Thousand
+320,320,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"2,100 sqft",4,4,54 Thousand
+321,321,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,663 sqft",3,3,35 Thousand
+322,322,"Block B, Bashundhara R-A, Dhaka",0.2633466115985077,"1,950 sqft",3,4,35 Thousand
+323,323,"Block H, Bashundhara R-A, Dhaka",0.26340563566098046,950 sqft,2,2,18 Thousand
+325,325,"Badda, Dhaka",0.26287240886965446,950 sqft,2,2,20 Thousand
+326,326,"Sector 3, Uttara, Dhaka",0.2639955301194926,"2,250 sqft",3,4,65 Thousand
+327,327,"Gulbag, Malibagh, Dhaka",0.26265206316802114,750 sqft,2,2,16 Thousand
+328,328,"Jamtola, East Rampura, Rampura, Dhaka",0.2627497022815776,700 sqft,2,2,11.5 Thousand
+329,329,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,200 sqft",3,3,50 Thousand
+331,331,"Baridhara, Dhaka",0.2632455535000738,"4,700 sqft",4,4,3 Lakh
+332,332,"Banani, Dhaka",0.2631448657458817,"3,000 sqft",4,5,90 Thousand
+333,333,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,700 sqft",3,4,50 Thousand
+334,334,"Tejkunipara, Tejgaon, Dhaka",0.2628739430435705,"1,200 sqft",3,3,30 Thousand
+335,335,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"3,000 sqft",4,4,1.35 Lakh
+336,336,"Sector 13, Uttara, Dhaka",0.26409985310710393,"2,015 sqft",4,4,45 Thousand
+337,337,"Sector 12, Uttara, Dhaka",0.2641207728475387,600 sqft,2,1,11 Thousand
+338,338,"Baridhara, Dhaka",0.2632455535000738,"2,500 sqft",3,3,1.3 Lakh
+340,340,"South Monipur, Mirpur, Dhaka",0.2633881392718243,850 sqft,2,2,11 Thousand
+341,341,"West Shewrapara, Mirpur, Dhaka",0.2632049573276816,700 sqft,2,2,12 Thousand
+342,342,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,500 sqft",3,3,30 Thousand
+343,343,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,600 sqft",3,3,25 Thousand
+344,344,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,800 sqft",3,3,30 Thousand
+345,345,"Block K, Bashundhara R-A, Dhaka",0.26342880270629554,"1,200 sqft",3,3,21 Thousand
+346,346,"Sector 9, Uttara, Dhaka",0.2641363426473048,800 sqft,2,2,18 Thousand
+347,347,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,350 sqft",3,3,25 Thousand
+348,348,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,450 sqft",3,3,30 Thousand
+350,350,"Gulbag, Malibagh, Dhaka",0.26265206316802114,600 sqft,2,1,14 Thousand
+351,351,"Road No 5, Sector 10, Uttara, Dhaka",0.2642076467146011,"1,943 sqft",3,3,28 Thousand
+352,352,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,710 sqft",3,4,30 Thousand
+353,353,"Baridhara, Dhaka",0.2632455535000738,"3,300 sqft",4,4,2 Lakh
+354,354,"Block I, Bashundhara R-A, Dhaka",0.2634051610595109,"1,050 sqft",3,2,27 Thousand
+355,355,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,600 sqft",3,4,22 Thousand
+357,357,"Shantibag, Malibagh, Dhaka",0.26260193300150925,"1,300 sqft",3,3,22 Thousand
+358,358,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,215 sqft",3,3,20 Thousand
+359,359,"Block A, Bashundhara R-A, Dhaka",0.26329971068765545,"2,200 sqft",3,4,42 Thousand
+361,361,"Sector 13, Uttara, Dhaka",0.26409985310710393,"1,500 sqft",3,3,27 Thousand
+362,362,"Block L, Bashundhara R-A, Dhaka",0.26340563566098046,"1,500 sqft",4,3,17.5 Thousand
+363,363,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,550 sqft",3,4,45 Thousand
+364,364,"Baridhara, Dhaka",0.2632455535000738,"2,700 sqft",3,3,1.1 Lakh
+365,365,"Banani, Dhaka",0.2631448657458817,"2,200 sqft",3,4,1 Lakh
+366,366,"Dhanmondi, Dhaka",0.2627720169289272,"2,050 sqft",3,4,60 Thousand
+367,367,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,850 sqft",3,4,65 Thousand
+368,368,"Block H, Bashundhara R-A, Dhaka",0.26340563566098046,"1,500 sqft",3,3,20 Thousand
+369,369,"Block B, Bashundhara R-A, Dhaka",0.2633466115985077,"1,400 sqft",3,3,30 Thousand
+370,370,"South Pirerbag, Pirerbag, Mirpur, Dhaka",0.2633881392718243,600 sqft,2,1,8.5 Thousand
+371,371,"Dhanmondi, Dhaka",0.2627720169289272,"1,500 sqft",3,3,30 Thousand
+372,372,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,480 sqft",3,4,35 Thousand
+373,373,"Road No 5, Sector 10, Uttara, Dhaka",0.2642076467146011,"2,150 sqft",3,3,35 Thousand
+374,374,"Banani, Dhaka",0.2631448657458817,"3,245 sqft",4,4,1.1 Lakh
+375,375,"Banani, Dhaka",0.2631448657458817,"3,245 sqft",4,4,1.1 Lakh
+376,376,"Banani, Dhaka",0.2631448657458817,"3,245 sqft",4,4,1.1 Lakh
+377,377,"Block J, Baridhara, Dhaka",0.263200526694617,"3,100 sqft",4,4,1.5 Lakh
+378,378,"Banani, Dhaka",0.2631448657458817,"3,245 sqft",4,4,1.1 Lakh
+379,379,"Avenue 1, Mirpur DOHS, Mirpur, Dhaka",0.26380339919716667,"1,165 sqft",2,3,26 Thousand
+380,380,"Nikunja 2, Nikunja, Dhaka",0.26354355771182736,"1,500 sqft",3,3,28 Thousand
+382,382,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,530 sqft",3,4,30 Thousand
+383,383,"South Pirerbag, Pirerbag, Mirpur, Dhaka",0.2633881392718243,600 sqft,1,1,7.5 Thousand
+384,384,"Block A, Niketan, Dhaka",0.2629435864525979,"1,750 sqft",3,2,1.1 Lakh
+385,385,"Block I, Bashundhara R-A, Dhaka",0.2634051610595109,"2,250 sqft",3,4,30 Thousand
+386,386,"Malibagh, Dhaka",0.26263560975313077,800 sqft,2,2,17 Thousand
+387,387,"Block A, Bashundhara R-A, Dhaka",0.26329971068765545,"1,450 sqft",3,3,1.2 Lakh
+388,388,"Cantonment, Dhaka",0.2634719214840569,"1,450 sqft",3,4,30 Thousand
+389,389,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,050 sqft",3,2,16 Thousand
+390,390,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,250 sqft",3,3,30 Thousand
+391,391,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,600 sqft",3,3,20 Thousand
+392,392,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,700 sqft",3,3,30 Thousand
+394,394,"Block H, Banasree, Dhaka",0.26270744886270236,"1,550 sqft",4,4,31 Thousand
+395,395,"Niketan, Dhaka",0.2629507833529689,"2,075 sqft",3,4,45 Thousand
+396,396,"Sector 10, Uttara, Dhaka",0.26421621271424994,"1,400 sqft",3,3,22 Thousand
+397,397,"Sector 12, Uttara, Dhaka",0.2641207728475387,850 sqft,2,2,16 Thousand
+398,398,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"2,600 sqft",3,4,42 Thousand
+400,400,"Dhanmondi, Dhaka",0.2627720169289272,850 sqft,3,3,25 Thousand
+402,402,"PC Culture Housing, Mohammadpur, Dhaka",0.26307166490932604,750 sqft,2,2,13 Thousand
+403,403,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,500 sqft",4,3,40 Thousand
+404,404,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,500 sqft",4,3,40 Thousand
+405,405,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,500 sqft",4,4,40 Thousand
+406,406,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"3,000 sqft",3,5,55 Thousand
+407,407,"Baridhara DOHS, Dhaka",0.26338117495440033,"1,500 sqft",3,3,57 Thousand
+408,408,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,500 sqft",4,4,40 Thousand
+409,409,"Sector 11, Uttara, Dhaka",0.2641582337585067,"1,500 sqft",4,4,40 Thousand
+410,410,"Banasree, Dhaka",0.26275988776423054,"1,200 sqft",3,3,20 Thousand
+411,411,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,875 sqft",3,3,50 Thousand
+412,412,"Nikunja 2, Nikunja, Dhaka",0.26354355771182736,"1,500 sqft",3,3,45 Thousand
+413,413,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,3,20 Thousand
+414,414,"Block E, Banasree, Dhaka",0.26272705530514406,"1,075 sqft",3,2,19.26 Thousand
+415,415,"Baridhara, Dhaka",0.2632455535000738,"2,500 sqft",4,4,1.6 Lakh
+416,416,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"2,250 sqft",3,3,1.1 Lakh
+417,417,"Uttar Badda, Badda, Dhaka",0.26304167434475506,"1,250 sqft",3,3,22 Thousand
+418,418,"Sector 4, Uttara, Dhaka",0.2639763269197848,"1,300 sqft",3,3,28 Thousand
+419,419,"Khilkhet, Dhaka",0.2635522482767209,750 sqft,2,2,12 Thousand
+420,420,"Baridhara, Dhaka",0.2632455535000738,"4,000 sqft",4,4,2.5 Lakh
+421,421,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"1,250 sqft",3,3,21 Thousand
+422,422,"Pirerbag, Mirpur, Dhaka",0.2633881392718243,970 sqft,3,3,13 Thousand
+423,423,"Block B, Bashundhara R-A, Dhaka",0.2633466115985077,"2,100 sqft",4,5,67.5 Thousand
+424,424,"Baridhara DOHS, Dhaka",0.26338117495440033,"1,350 sqft",3,3,70 Thousand
+425,425,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,700 sqft",3,3,30 Thousand
+427,427,"Uttar Badda, Badda, Dhaka",0.26304167434475506,"1,765 sqft",3,3,20 Thousand
+428,428,"Block F, Bashundhara R-A, Dhaka",0.26340678450900457,"1,500 sqft",3,3,25 Thousand
+429,429,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,600 sqft",4,4,85 Thousand
+430,430,"Malibagh, Dhaka",0.26263560975313077,700 sqft,2,2,20 Thousand
+431,431,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,3,20 Thousand
+432,432,"Cantonment, Dhaka",0.2634719214840569,"1,350 sqft",3,4,22 Thousand
+434,434,"Banani, Dhaka",0.2631448657458817,"1,600 sqft",3,3,45 Thousand
+435,435,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,3,20 Thousand
+436,436,"Uttara, Dhaka",0.2639901823067029,900 sqft,3,3,30 Thousand
+438,438,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,500 sqft",3,3,50 Thousand
+439,439,"Block H, Banasree, Dhaka",0.26270744886270236,"1,550 sqft",4,4,30 Thousand
+440,440,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"2,200 sqft",3,3,90 Thousand
+441,441,"Dhanmondi, Dhaka",0.2627720169289272,"1,200 sqft",3,3,33 Thousand
+443,443,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,320 sqft",3,4,25 Thousand
+444,444,"Tejgaon, Dhaka",0.2628883599451572,950 sqft,3,2,23 Thousand
+445,445,"Uttara, Dhaka",0.2639901823067029,"1,800 sqft",3,3,30 Thousand
+446,446,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,600 sqft",3,3,25 Thousand
+447,447,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"3,800 sqft",3,4,3 Lakh
+448,448,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,3,20 Thousand
+449,449,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,3,20 Thousand
+450,450,"Mirpur, Dhaka",0.263515774210355,"1,350 sqft",3,3,20 Thousand
+451,451,"Mirpur, Dhaka",0.263515774210355,"1,000 sqft",2,3,13 Thousand
+452,452,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,3,20 Thousand
+453,453,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,810 sqft",3,3,30 Thousand
+454,454,"East Goran, Goran, Khilgaon, Dhaka",0.26259520941590175,980 sqft,2,2,9 Thousand
+455,455,"Khilgaon, Dhaka",0.26266083388271805,700 sqft,2,2,13 Thousand
+456,456,"Mohammadpur, Dhaka",0.26298493281416874,750 sqft,2,2,25 Thousand
+457,457,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,500 sqft",3,3,26 Thousand
+458,458,"Mohammadpur, Dhaka",0.26298493281416874,750 sqft,2,2,14 Thousand
+459,459,"Shyamoli Housing, Shekhertek, Mohammadpur, Dhaka",0.2631186581689169,"1,400 sqft",3,3,18 Thousand
+460,460,"Mirpur, Dhaka",0.263515774210355,"1,350 sqft",3,3,20 Thousand
+461,461,"Baridhara, Dhaka",0.2632455535000738,"3,200 sqft",4,4,2 Lakh
+463,463,"Sector 11, Uttara, Dhaka",0.2641582337585067,900 sqft,2,2,21 Thousand
+464,464,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,3,20 Thousand
+465,465,"Block H, Bashundhara R-A, Dhaka",0.26340563566098046,"1,500 sqft",3,3,26 Thousand
+466,466,"Section 12, Mirpur, Dhaka",0.2635992872732303,"1,600 sqft",3,3,19 Thousand
+467,467,"Lalmatia, Dhaka",0.26288505956314384,"1,580 sqft",3,3,35 Thousand
+468,468,"Block H, Bashundhara R-A, Dhaka",0.26340563566098046,"2,045 sqft",3,4,1 Lakh
+469,469,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"4,200 sqft",4,4,2.5 Lakh
+471,471,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,200 sqft",3,3,20 Thousand
+472,472,"Block D, Bashundhara R-A, Dhaka",0.26335871007104955,"2,800 sqft",4,4,50 Thousand
+473,473,"Sector 10, Uttara, Dhaka",0.26421621271424994,800 sqft,2,2,16 Thousand
+474,474,"Block C, Bashundhara R-A, Dhaka",0.26342064311111807,"1,700 sqft",3,3,30 Thousand
+475,475,"South Monipur, Mirpur, Dhaka",0.2633881392718243,"1,150 sqft",3,2,15 Thousand
+476,476,"Block G, Bashundhara R-A, Dhaka",0.26343532755504206,"1,550 sqft",3,3,21 Thousand
+477,477,"Block F, Bashundhara R-A, Dhaka",0.26340678450900457,"1,735 sqft",3,3,32 Thousand
+478,478,"Baitul Aman Housing Society, Adabor, Dhaka",0.26307979373259865,"1,550 sqft",3,3,30 Thousand
+479,479,"Mohammadpur, Dhaka",0.26298493281416874,"2,700 sqft",3,3,60 Thousand
+480,480,"Malibagh, Dhaka",0.26263560975313077,700 sqft,2,2,20 Thousand
+481,481,"Baridhara, Dhaka",0.2632455535000738,"4,200 sqft",4,4,4 Lakh
+482,482,"Mohammadia Housing Society, Mohammadpur, Dhaka",0.2629907267375068,"1,550 sqft",3,3,34 Thousand
+483,483,"Block H, Bashundhara R-A, Dhaka",0.26340563566098046,"1,450 sqft",3,3,26 Thousand
+484,484,"Sector 6, Uttara, Dhaka",0.26407196242427444,"2,900 sqft",4,4,80 Thousand
+485,485,"Block K, Baridhara, Dhaka",0.26321754504668005,"2,800 sqft",4,4,1.2 Lakh
+486,486,"Gulshan 2, Gulshan, Dhaka",0.26324981152624227,"2,350 sqft",3,4,80 Thousand
+487,487,"Baridhara, Dhaka",0.2632455535000738,"3,200 sqft",4,4,2 Lakh
+488,488,"Banani, Dhaka",0.2631448657458817,"3,000 sqft",4,5,1.2 Lakh
+489,489,"Sector 9, Uttara, Dhaka",0.2641363426473048,"2,000 sqft",3,3,35 Thousand
+490,490,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,800 sqft",3,3,85 Thousand
+491,491,"Sector 3, Uttara, Dhaka",0.2639955301194926,"1,550 sqft",3,3,30 Thousand
+492,492,"Sector 1, Uttara, Dhaka",0.26391337381801133,"2,600 sqft",4,4,50 Thousand
+493,493,"Section 10, Mirpur, Dhaka",0.26344428662441866,650 sqft,2,2,14 Thousand
+494,494,"Sector 14, Uttara, Dhaka",0.2640484248984592,900 sqft,3,2,20 Thousand
+495,495,"Gulshan 1, Gulshan, Dhaka",0.2630100456883614,"2,100 sqft",3,3,60 Thousand
+496,496,"Dakkhin Paikpara, Paikpara, Mirpur, Dhaka",0.2633592649846901,"1,100 sqft",3,2,17 Thousand
+497,497,"Dhanmondi, Dhaka",0.2627720169289272,"1,600 sqft",3,4,37 Thousand
+498,498,"Banani, Dhaka",0.2631448657458817,"2,700 sqft",3,3,1.4 Lakh
